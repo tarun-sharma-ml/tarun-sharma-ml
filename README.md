@@ -36,8 +36,8 @@ Python developer building end-to-end ML systems from data pipeline to deployment
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sofdev1&show_icons=true&theme=default" alt="Tarun's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofdev1" alt="Tarun's GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tarun-sharma-ml&show_icons=true&theme=default" alt="Tarun's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-sharma-ml" alt="Tarun's GitHub streak" height="165"/>
 </p>
 
 ### 📫 Reach me
