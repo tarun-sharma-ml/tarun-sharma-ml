@@ -36,11 +36,8 @@ Python developer building end-to-end ML systems — from data pipeline to deploy
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tarun-sharma-ml&show_icons=true&theme=default" alt="Tarun's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-sharma-ml" alt="Tarun's GitHub streak" height="165"/>
 </p>
-
-> Note: the stats widget above is a free, community-run service and occasionally goes down (503 Deployment Paused). If it's not showing, either self-host your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) on Vercel, or simply remove this section.
 
 ### 📫 Reach me
 
