@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Tarun 👋</h1>
 
 <p align="center">
-Python developer building end-to-end ML systems from data pipeline to deployment.
+Python developer building end-to-end ML systems — from data pipeline to deployment.
 </p>
 
 ---
 
 ### 🔭 What I do
 
-- 🤖 Build **end-to-end ML/MLOps pipelines** such as data ingestion, validation, transformation, training, and deployment (FastAPI + CI/CD + Azure)
+- 🤖 Build **end-to-end ML/MLOps pipelines** — data ingestion, validation, transformation, training, and deployment (FastAPI + CI/CD + Azure)
 - 🐍 Write Python tools for automation, data processing, and desktop utilities
 - 📊 Currently exploring MLOps best practices and deploying models for real-world use
 
@@ -26,12 +26,12 @@ Python developer building end-to-end ML systems from data pipeline to deployment
 
 | Project | Description |
 |---|---|
-| [climate-visibility](https://github.com/sofdev1/climate-visibility) | End-to-end ML system predicting atmospheric visibility from weather parameters |
-| [customer-categoriser](https://github.com/sofdev1/customer-categoriser) | Full MLOps pipeline predicting customer categories from demographic/transaction data |
-| [crypto-volatility-predictions](https://github.com/sofdev1/crypto-volatility-predictions) | ML system for crypto volatility prediction using market data & technical indicators |
-| [spam-detection](https://github.com/sofdev1/spam-detection) | NLP-based spam classification for SMS and email |
-| [Organise-PC](https://github.com/sofdev1/Organise-PC) | Desktop utility that auto-organizes files into categorized folders |
-| [Pi-Approximation-Algorithms](https://github.com/sofdev1/Pi-Approximation-Algorithms) | Collection of Pi approximation algorithms (Chudnovsky, Machin, Leibniz, Borwein) |
+| [climate-visibility](https://github.com/tarun-sharma-ml/climate-visibility) | End-to-end ML system predicting atmospheric visibility from weather parameters |
+| [customer-categoriser](https://github.com/tarun-sharma-ml/customer-categoriser) | Full MLOps pipeline predicting customer categories from demographic/transaction data |
+| [crypto-volatility-predictions](https://github.com/tarun-sharma-ml/crypto-volatility-predictions) | ML system for crypto volatility prediction using market data & technical indicators |
+| [spam-detection](https://github.com/tarun-sharma-ml/spam-detection) | NLP-based spam classification for SMS and email |
+| [Organise-PC](https://github.com/tarun-sharma-ml/Organise-PC) | Desktop utility that auto-organizes files into categorized folders |
+| [Pi-Approximation-Algorithms](https://github.com/tarun-sharma-ml/Pi-Approximation-Algorithms) | Collection of Pi approximation algorithms (Chudnovsky, Machin, Leibniz, Borwein) |
 
 ### 📈 GitHub Stats
 
@@ -40,9 +40,11 @@ Python developer building end-to-end ML systems from data pipeline to deployment
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-sharma-ml" alt="Tarun's GitHub streak" height="165"/>
 </p>
 
+> Note: the stats widget above is a free, community-run service and occasionally goes down (503 Deployment Paused). If it's not showing, either self-host your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) on Vercel, or simply remove this section.
+
 ### 📫 Reach me
 
-**LinkedIn:** "https://www.linkedin.com/in/tarun-sharma-910668226/"
+**LinkedIn:** "https://www.linkedin.com/in/tarun-sharma-910668226"
 - 📍 Delhi, India
 
 ---
